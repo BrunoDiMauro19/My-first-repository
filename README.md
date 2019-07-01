@@ -1,2 +1,2 @@
-# My-first-repository
-This is an attempt of creating a data analysis portfolio.
+This is my exercises repository.
+Here I train my ability in analyzing datas and predicting trends.
